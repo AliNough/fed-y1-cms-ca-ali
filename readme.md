@@ -11,7 +11,7 @@ Deploy: https://candid-malasada-b09841.netlify.app/
 
 ### Logins:
 
-User: noroff
+User: noroff <br>
 Pass: LiU2$c0LH%JIq&ZT)22sDM5L
 Email: alinaj61939@stud.noroff.no
 
