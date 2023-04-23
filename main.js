@@ -8,10 +8,12 @@ srchInput.addEventListener("keyup", function (e) {
   posts(searchValue);
 });
 
+// https://music5169.wordpress.com/wp-json/wp/v2/posts
+
 async function posts(srchValue = "") {
   try {
     const response = await fetch(
-      "https://music5169.wordpress.com/wp-json/wp/v2/posts",
+      "https://special-example.flywheelsites.com/wp-json/wp/v2/posts",
       {
         method: "GET",
         headers: {},
