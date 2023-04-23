@@ -6,8 +6,9 @@ FED 2023
 
 ### Links:
 
-Rpo: https://github.com/AliNough/fed-y1-cms-ca-ali <br>
+Repo: https://github.com/AliNough/fed-y1-cms-ca-ali <br>
 Deploy: https://candid-malasada-b09841.netlify.app/
+WP: https://music5169.wordpress.com/wp-admin/index.php
 
 ### Logins:
 
