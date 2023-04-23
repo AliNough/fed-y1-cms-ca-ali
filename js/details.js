@@ -9,7 +9,8 @@ const id = params.get("id");
 
 console.log(id);
 
-const url = "special-example.flywheelsites.com/wp-json/wp/v2/posts/" + id;
+const url =
+  "https://special-example.flywheelsites.com/wp-json/wp/v2/posts/" + id;
 
 console.log(url);
 
