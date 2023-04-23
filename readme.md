@@ -7,8 +7,8 @@ FED 2023
 ### Links:
 
 Repo: https://github.com/AliNough/fed-y1-cms-ca-ali <br>
-Deploy: https://candid-malasada-b09841.netlify.app/
-WP: https://music5169.wordpress.com/wp-admin/index.php
+Deploy: https://candid-malasada-b09841.netlify.app/ <br>
+WP: https://special-example.flywheelsites.com/wp-admin/index.php , https://music5169.wordpress.com/wp-admin/index.php
 
 ### Logins:
 
